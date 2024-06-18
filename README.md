@@ -1,5 +1,5 @@
-# FGCFL
+# FedFOC
 
-FGCFL: Fine-grained Distribution Similarity Identification for One-shot Clustered Federated Learning
+FedFOC: Efficient and Scalable Personalized Federated Learning via Fine-grained One-shot Clustering
 
-We will upload and update the code later
+We will upload the code later.
